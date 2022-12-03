@@ -6,4 +6,4 @@ We are a decentralized group of individuals located all across the net.
 This is where we share the creations we've designed and made.  
 
 Come chat with us on Matrix.  
-You can find our rooms via our website.
+You can find our community info ![HERE](https://github.com/Az-Net/Az-Net).
