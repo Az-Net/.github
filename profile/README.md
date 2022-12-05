@@ -8,8 +8,8 @@ This is where we share the creations we've designed and made.
 Come chat with us on Matrix.  
 You can find our community info [HERE](https://github.com/Az-Net/Az-Net).
 
-#### Our Projects:
-//ZEED  
-//GRID
+#### Our Projects:  
+[The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
-[The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)
+[//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
+[//GRID](https://github.com/Az-Neter/AzNet-GRID)  
