@@ -8,8 +8,21 @@ This is where we share the creations we've designed and made.
 Come chat with us on Matrix.  
 You can find our community info [HERE](https://github.com/Az-Net/Az-Net).
 
-#### Our Projects:  
+### Our Projects:  
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
+
+### Recruiting Experts in:  
+-Git  
+-Python  
+-UI Design  
+-bash / sh  
+-Translator (EN > RU, JP, KO, SP, FR, HI, CH)  
+-html  
+-Network Administration (IP Protocols)  
+-Hardware Hacking & Design  
+-IRC/Matrix/Webserver   
+-Dapp Dev / Blockchain  
+-MCU Firmware Design
