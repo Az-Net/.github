@@ -9,6 +9,8 @@ Come chat with us on Matrix.
 You can find our community info [HERE](https://github.com/Az-Net/Az-Net).
 
 ### Our Projects:  
+[The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
