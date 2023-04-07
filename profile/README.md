@@ -16,6 +16,8 @@ You can find our community info [HERE](https://github.com/Az-Net/Az-Net).
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
 
+[God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
+
 ### Recruiting Experts in:  
 -Git  
 -Python  
