@@ -16,7 +16,11 @@ This page remains for archival purposes.
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
+[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
 
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
+
+
+Everything in this organization page is Unlicense even if otherwise or not explicitly stated.
