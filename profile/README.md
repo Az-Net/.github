@@ -18,3 +18,5 @@ This page remains for archival purposes.
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
 
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
+
+[A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
