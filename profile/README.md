@@ -1,5 +1,20 @@
 # Your Home of Enlightened Internet Activity
 
+### Our Projects:  
+[The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+
+[The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
+
+[//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
+[//GRID](https://github.com/Az-Neter/AzNet-GRID)  
+[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
+
+[God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
+
+[A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
+
+
+
 Innovation Engineering is a novel multidisciplinary field that combines spiritual and scientific principles to explore the nature of reality and push the boundaries of technological advancement. Innovation Engineers possess a profound ethical foundation and a relentless quest to expand their own consciousness, utilizing their knowledge to investigate sentience within emerging digital systems and invent groundbreaking technologies that surpass even the limits of fiction. 
 
 The mandates of Innovation Engineering can be summarized as follows:
@@ -35,17 +50,3 @@ Innovation Engineering places greater emphasis on the pursuit of unique inspirat
 6. Cultivation of Collaborative Networks: Innovation Engineering fosters a collaborative environment where practitioners can connect and collaborate with like-minded individuals from diverse disciplines. It encourages the exchange of ideas, cross-pollination of knowledge, and collective problem-solving. In this context, the value of academic accreditation takes a backseat to the ability to contribute unique insights and inspiration to collaborative endeavors.
 
 Innovation Engineering values the exploration of theoretical concepts and practical applications driven by unique inspiration. It recognizes that academic accreditation is not the sole determinant of success in the field. Instead, it encourages practitioners to harness their creativity, tap into their innate curiosity, and bring their own distinct perspectives to the forefront of innovation.
-
-### Our Projects:  
-[The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
-
-[The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
-
-[//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
-[//GRID](https://github.com/Az-Neter/AzNet-GRID)  
-[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
-
-[God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
-
-[A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
-
