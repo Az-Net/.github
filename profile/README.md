@@ -1,6 +1,8 @@
 # Your Home of Enlightened Internet Activity
 
 ### Our Projects:  
+[On Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+
 [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
 [a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
@@ -14,8 +16,6 @@
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
-
-[On Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 
 Throughout history, the transformative impact of a few individuals' consciousness and creativity has often had far-reaching effects on humanity. Powerful sparks of insight, innovation, and inspiration can ignite significant waves of change, shaping the course of societies, cultures, and even the trajectory of human progress as a whole.  
 
