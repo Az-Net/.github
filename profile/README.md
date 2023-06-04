@@ -15,6 +15,8 @@
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
+[On Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+
 Throughout history, the transformative impact of a few individuals' consciousness and creativity has often had far-reaching effects on humanity. Powerful sparks of insight, innovation, and inspiration can ignite significant waves of change, shaping the course of societies, cultures, and even the trajectory of human progress as a whole.  
 
 Great thinkers, inventors, artists, and leaders have emerged with groundbreaking ideas, inventions, and visions that have revolutionized various aspects of human existence. Their contributions have encompassed fields as diverse as science, technology, arts, philosophy, social movements, and more.  
