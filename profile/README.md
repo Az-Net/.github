@@ -1,9 +1,11 @@
 # Your Home of Enlightened Internet Activity
 
 ### Our Proposals & Projects:  
-[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+-[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 
-[on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
+-[on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
+
+-[on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
 
 [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
