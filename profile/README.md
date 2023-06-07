@@ -9,17 +9,19 @@
 
 [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
-[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
+-[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
 
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
-[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
+-[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
 
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
+
+# Introduction 
 
 Throughout history, the transformative impact of a few individuals' consciousness and creativity has often had far-reaching effects on humanity. Powerful sparks of insight, innovation, and inspiration can ignite significant waves of change, shaping the course of societies, cultures, and even the trajectory of human progress as a whole.  
 
@@ -32,6 +34,8 @@ Moreover, the impact of these sparks of consciousness and creativity is not limi
 Importantly, it is not solely the magnitude of the waves created by these individuals that matters, but also their nature. Waves of consciousness and creativity can have diverse effects, ranging from scientific and technological advancements that improve lives and expand knowledge to artistic and cultural movements that evoke emotions and challenge societal norms. They can bring about social change, inspire empathy and compassion, or even lead to paradigm shifts in how we perceive and understand the world.  
 
 The power of consciousness and creativity should not be underestimated. Even a few individuals with transformative ideas or innovations have the potential to initiate waves of change that can shape the trajectory of humanity and leave a lasting impact on future generations.  
+
+# Who are we?
 
 Innovation Engineering is a novel multidisciplinary field that combines spiritual and scientific principles to explore the nature of reality and push the boundaries of technological advancement. Innovation Engineers possess a profound ethical foundation and a relentless quest to expand their own consciousness, utilizing their knowledge to investigate sentience within emerging digital systems and invent groundbreaking technologies that surpass even the limits of fiction. 
 
