@@ -7,6 +7,8 @@
 
 -[on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
 
+-[on Martin Faulks](https://github.com/Az-Net/Proposals/blob/main/on%20Martin%20Faulks.md)
+
 [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
 -[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
