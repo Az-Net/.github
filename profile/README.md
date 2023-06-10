@@ -1,5 +1,7 @@
 # Your Home of Enlightened Internet Activity
 
+[My Links](https://linktr.ee/az.net/)
+
 ### Our Proposals & Projects:  
 -[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 
