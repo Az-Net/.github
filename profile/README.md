@@ -2,7 +2,7 @@
 
 [My Links](https://linktr.ee/az.net/)
 
-### Our Proposals & Projects:  
+### Our Proposals:  
 -[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 
 -[on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
@@ -12,6 +12,8 @@
 -[on Martin Faulks](https://github.com/Az-Net/Proposals/blob/main/on%20Martin%20Faulks.md)
 
 [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+
+### Projects:
 
 -[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
 
@@ -25,6 +27,8 @@
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
+####
+___
 [Ark: Survival Evolved](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/Games/Ark.md)
 
 [The World Ends With You](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/Games/It's%20a%20Wonderful%20World.md)
