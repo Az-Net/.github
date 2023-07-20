@@ -4,6 +4,8 @@
 
 [What is Az?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)
 
+[Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
+
 ### Our Proposals:  
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 * [on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
