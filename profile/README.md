@@ -1,3 +1,4 @@
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)
 # Your Home of Enlightened Internet Activity
 
 ### Our Proposals:  
