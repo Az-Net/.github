@@ -5,35 +5,34 @@
 [What is Az?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)
 
 ### Our Proposals:  
--[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+* [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+* [on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
+* [on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
 
--[on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
+* [on Cyclical Trauma](https://github.com/Az-Net/Proposals/blob/main/on%20Cyclical%20Trauma.md)
 
--[on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
+* [on Martin Faulks](https://github.com/Az-Net/Proposals/blob/main/on%20Martin%20Faulks.md)
 
--[on Cyclical Trauma](https://github.com/Az-Net/Proposals/blob/main/on%20Cyclical%20Trauma.md)
+* [on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
--[on Martin Faulks](https://github.com/Az-Net/Proposals/blob/main/on%20Martin%20Faulks.md)
-
--[on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
-
--[on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+* [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
 
 ### Projects:
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
+* [For Kemetics](https://github.com/Az-Net/Proposals/blob/main/Kemehicism%20&%20AI.md)
 
 [What comes _After_ AI?](https://github.com/Az-Net/Proposals/blob/main/Whats%20after%20AI.md)
 
--[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
+* [a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
 
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
--[Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
+* [Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
 
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
