@@ -15,6 +15,8 @@
 
 [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
 
+[What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
+
 ### Projects:
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
