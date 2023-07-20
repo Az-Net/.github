@@ -11,9 +11,9 @@
 
 -[on Martin Faulks](https://github.com/Az-Net/Proposals/blob/main/on%20Martin%20Faulks.md)
 
-[on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+-[on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
-[on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+-[on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
 
