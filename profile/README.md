@@ -44,6 +44,8 @@ ___
 
 [The World Ends With You](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/Games/It's%20a%20Wonderful%20World.md)
 
+[Lateralus](https://github.com/Az-Net/Proposals/blob/main/Lateralus.md)
+
 # Introduction 
 
 Throughout history, the transformative impact of a few individuals' consciousness and creativity has often had far-reaching effects on humanity. Powerful sparks of insight, innovation, and inspiration can ignite significant waves of change, shaping the course of societies, cultures, and even the trajectory of human progress as a whole.  
