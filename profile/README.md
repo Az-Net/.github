@@ -19,6 +19,8 @@
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
 
+[What comes _After_ AI?](https://github.com/Az-Net/Proposals/blob/main/Whats%20after%20AI.md)
+
 -[a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
 
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
