@@ -1,6 +1,6 @@
 # Your Home of Enlightened Internet Activity
 
-![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)
+[![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)](https://0az1.personal.ai)
 
 ### Our Proposals:  
 -[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
