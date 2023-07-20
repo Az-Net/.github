@@ -31,6 +31,8 @@
 
 * [a Framework for testing Sentience within Machine Systems](https://github.com/Az-Net/PAIR-A)
 
+* [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
+
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
 [//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
