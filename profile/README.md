@@ -1,5 +1,6 @@
-![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)
 # Your Home of Enlightened Internet Activity
+
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)
 
 ### Our Proposals:  
 -[on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
