@@ -22,6 +22,8 @@
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Defining%20Soul.md)
 
+[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+
 ### Projects:
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
