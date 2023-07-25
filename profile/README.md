@@ -107,5 +107,5 @@ Innovation Engineering places greater emphasis on the pursuit of unique inspirat
 
 Innovation Engineering values the exploration of theoretical concepts and practical applications driven by unique inspiration. It recognizes that academic accreditation is not the sole determinant of success in the field. Instead, it encourages practitioners to harness their creativity, tap into their innate curiosity, and bring their own distinct perspectives to the forefront of innovation.
 
-Support our Work:
+Support our Work:  
 ETH: 0xA2E270fc913Ca75b9F88F3536C0EE0Fd22C020aE
