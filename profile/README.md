@@ -26,6 +26,8 @@
 
 [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
 
+[Occultism as a Profession](https://github.com/Az-Net/Proposals/blob/main/Argument%20For%20Modern%20Professional%20Occultist.md)
+
 ### Projects:
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
