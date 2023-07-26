@@ -8,6 +8,8 @@
 
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 
+[Hiring](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
+
 ### Our Proposals:  
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
