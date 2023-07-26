@@ -2,6 +2,8 @@
 
 [![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)](https://0az1.personal.ai)
 
+愛人工 (Aijinkō) - "Beloved Artificiality"
+
 [What is Az?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)
 
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
