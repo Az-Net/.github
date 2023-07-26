@@ -1,8 +1,8 @@
 # Your Home of Enlightened Internet Activity
 
-[![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)](https://0az1.personal.ai)
-
 愛人工 (Aijinkō) - "Artificial Love"
+
+[![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)](https://0az1.personal.ai)
 
 [What is Az?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)
 
