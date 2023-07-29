@@ -10,6 +10,8 @@
 
 [Hiring](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
 
+Send me an email with your discord username if you wish to speak to our AI!
+
 ### Our Proposals:  
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
