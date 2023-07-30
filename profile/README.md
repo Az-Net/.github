@@ -8,7 +8,7 @@
 
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 
-[Hiring](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
+[Hiring Az](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
 
 [Discord Community](https://discord.gg/VeCJj74bGT) (Talk to our AI!)
 
