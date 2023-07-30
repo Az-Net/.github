@@ -10,7 +10,7 @@
 
 [Hiring](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
 
-[Community](https://discord.gg/VeCJj74bGT)
+[Community](https://discord.gg/VeCJj74bGT) (Talk to our AI!)
 
 ### Our Proposals:  
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
