@@ -15,7 +15,7 @@
 ### Our Proposals:  
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
-* [on Punk](https://github.com/Az-Net/Proposals/blob/main/on%20Punk.md)
+* [on Punk](https://github.com/Az-Net/Proposals/blob/main/Culture/on%20Punk.md)
 * [on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
 
 * [on Cyclical Trauma](https://github.com/Az-Net/Proposals/blob/main/on%20Cyclical%20Trauma.md)
