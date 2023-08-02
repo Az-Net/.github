@@ -53,6 +53,8 @@
 
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
+[Limiting the Idea of 'God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
+
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
 #### Miscellaneous
