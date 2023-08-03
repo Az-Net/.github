@@ -25,6 +25,9 @@
 * [on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
 * [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+____
+
+[Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory)
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
 
@@ -54,7 +57,7 @@
 [Defining 'God'](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md)
 * ['God' as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 * [Limiting the Idea of 'God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
-* [Follow-Up & Conclusion](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
+* [Follow-Up & Conclusion to 'Limiting God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
