@@ -39,6 +39,8 @@ ____
 
 [Occultism as a Profession](https://github.com/Az-Net/Proposals/blob/main/Occultism/Argument%20For%20Modern%20Professional%20Occultist.md)
 
+[The Games of Society](https://github.com/Az-Net/Proposals/blob/main/Culture/Societal%20Games.md)
+
 ### Projects:
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
