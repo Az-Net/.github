@@ -56,10 +56,7 @@ ____
 [//GRID](https://github.com/Az-Neter/AzNet-GRID)  
 * [Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
 
-[Defining 'God'](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md)
-* ['God' as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
-* [Limiting the Idea of 'God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
-* [Follow-Up & Conclusion to 'Limiting God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
+[Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
