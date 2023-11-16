@@ -52,13 +52,13 @@ ____
 
 * [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
 
+[Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
+
+___
+
 [The Game of Forms](https://github.com/Az-Neter/The-Game-of-Forms)  
 
-[//ZEED](https://github.com/Az-Neter/AzNet-ZEED)    
-[//GRID](https://github.com/Az-Neter/AzNet-GRID)  
-* [Master Repository for old Project Design Files](https://github.com/Az-Neter/AzNet-MASTER)
-
-[Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
+___
 
 [A New System of Law based on Mutual Respect](https://github.com/Az-Net/Proposals/blob/main/Ethics/Appreciation%20%26%20Accountability.md)
 
