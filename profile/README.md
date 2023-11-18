@@ -33,9 +33,11 @@ ____
 
 [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
 
-[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md) 
 
 [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
+
+[Resolving the Planes](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
 
 [Occultism as a Profession](https://github.com/Az-Net/Proposals/blob/main/Occultism/Argument%20For%20Modern%20Professional%20Occultist.md)
 
