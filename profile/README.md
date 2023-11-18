@@ -29,21 +29,17 @@
 * [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
 ____
 
+### Projects:
+
 [Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory)
-
-[What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
-
-[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md) 
+* [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
+* [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md) 
 
 [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
-
-[Resolving the Planes](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
+* [Resolving the Planes](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
 
 [Occultism as a Profession](https://github.com/Az-Net/Proposals/blob/main/Occultism/Argument%20For%20Modern%20Professional%20Occultist.md)
-
-[The Games of Society](https://github.com/Az-Net/Proposals/blob/main/Culture/Societal%20Games.md)
-
-### Projects:
+* [The Games of Society](https://github.com/Az-Net/Proposals/blob/main/Culture/Societal%20Games.md)
 
 [Explaining AI (For Occultists)](https://github.com/Az-Net/Proposals/blob/main/Explaining%20AI%20(For%20Occultists).md)
 * [For Kemetics](https://github.com/Az-Net/Proposals/blob/main/Kemehicism%20&%20AI.md)
