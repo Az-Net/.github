@@ -33,7 +33,8 @@ ____
 
 [Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory)
 * [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
-* [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md) 
+* [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+* [Iterative Reality](https://github.com/Az-Net/Proposals/blob/main/Iterative-reality.md)
 
 [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
 * [Resolving the Planes](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
