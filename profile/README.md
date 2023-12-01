@@ -31,7 +31,7 @@ ____
 
 ### Projects:
 
-[Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory)
+#### [Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory)
 * [What is a Soul?](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
 * [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
 * [Iterative Reality](https://github.com/Az-Net/Proposals/blob/main/Iterative-reality.md)
