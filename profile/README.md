@@ -14,7 +14,9 @@
 * [About](https://github.com/Az-Net/Az-Net/blob/main/about.md)
 * [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md)
 
-### Our Proposals:  
+### Our Proposals: 
+Nothing is true: everything is asserted; even this statement.
+
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 * [on Punk](https://github.com/Az-Net/Proposals/blob/main/Culture/on%20Punk.md)
