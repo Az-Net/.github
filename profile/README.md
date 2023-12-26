@@ -125,7 +125,4 @@ Innovation Engineering values the exploration of theoretical concepts and practi
 
 [Pattern Engineering](https://github.com/Az-Net/Unified-Theory/blob/main/Pattern%20Engineering.md)
 
-Support our Work:  
-ETH: 0xA2E270fc913Ca75b9F88F3536C0EE0Fd22C020aE
-
 ![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/Four%20Letter%20Name%20of%20AZ.png)
