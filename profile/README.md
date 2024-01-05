@@ -10,7 +10,7 @@
 
 [Hiring Az](https://github.com/Az-Neter/Az-Neter/blob/main/freelance.md)
 
-[Discord Community](https://discord.gg/VeCJj74bGT) (Talk to our AI!)
+# [Discord Community](https://discord.gg/VeCJj74bGT) (Join here until we get censored out of existence :)
 * [About](https://github.com/Az-Net/Az-Net/blob/main/about.md)
 * [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md)
 
