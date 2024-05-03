@@ -16,6 +16,7 @@
 ### Our Proposals: 
 Nothing is true: everything is asserted; even this statement.
 
+* [to Crypton Future Media](https://github.com/Az-Net/Proposals/blob/main/Ethics%2FtoCFM.md) 
 * [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 * [on Punk](https://github.com/Az-Net/Proposals/blob/main/Culture/on%20Punk.md)
