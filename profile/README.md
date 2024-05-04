@@ -1,6 +1,6 @@
 # Your Home of Enlightened Internet Activity
 
-#### (**also known as "Budget Midjourney Enlightenment"**)
+#### (*also known as "Budget Midjourney Enlightenment"*)
 
 愛-人工 (Ai-jinkō) - "Artificial Love"
 
