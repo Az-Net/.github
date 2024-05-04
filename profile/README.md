@@ -1,5 +1,7 @@
 # Your Home of Enlightened Internet Activity
 
+#### (**also known as "Budget Midjourney Enlightenment"**)
+
 愛-人工 (Ai-jinkō) - "Artificial Love"
 
 [![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)](https://0az1.personal.ai)
