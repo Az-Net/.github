@@ -32,7 +32,7 @@ Nothing is true: everything is asserted; even this statement.
 
 * [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
 
-* [on Communication](https://github.com/Az-Net/Proposals/blob/main/on%20Communication.md). 
+* [on Communication](https://github.com/Az-Net/Proposals/blob/main/on%20Communication.md)  
 
 ____
 
