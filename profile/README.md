@@ -31,6 +31,9 @@ Nothing is true: everything is asserted; even this statement.
 * [on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
 * [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+
+* [on Communication](https://github.com/Az-Net/Proposals/blob/main/on%20Communication.md). 
+
 ____
 
 ### Projects:
