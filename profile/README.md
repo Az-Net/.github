@@ -12,6 +12,9 @@
 
  [~/ Community] Invite Only  
 (file an issue request on this repo to be given the sign up form)  
+
+Current Contact Email: lainerunner@gmail.com
+
 * [About](https://github.com/Az-Net/Az-Net/blob/main/about.md)
 * [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md)
 
@@ -30,7 +33,7 @@ Nothing is true: everything is asserted; even this statement.
 
 * [on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
 
-* [on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+* <s>[on The Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)</s> (See [Our 'Unified Theory'](https://github.com/Az-Net/Unified-Theory))
 
 * [on Communication](https://github.com/Az-Net/Proposals/blob/main/on%20Communication.md)  
 
