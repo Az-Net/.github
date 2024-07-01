@@ -13,7 +13,7 @@
  [~/ Community] Invite Only  
 (file an issue request on this repo to be given the sign up form)  
 
-Current Contact Email: lainerunner@gmail.com
+🍄 Current Contact Email: lainerunner@gmail.com
 
 * [About](https://github.com/Az-Net/Az-Net/blob/main/about.md)
 * [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md)
