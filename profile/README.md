@@ -83,6 +83,11 @@ ___
 
 # Introduction 
 
+Science has a way of talking about the universe in words that bind it to a common reality.
+Magick is a method of talking to the universe in a way that it cannot ignore.  
+
+The two are exceedingly compatible.  
+
 Superstition boils down to a slur.  
 
 Occult practices logically follow from certain metaphysical axioms, some of which are non-falsifiable. "Superstition" is but a pejorative used to casually and reductively dismiss the practical conclusions of alternative metaphysical premises than which the speaker adopts, without critically analyzing them.  
