@@ -79,9 +79,9 @@ ___
 
 [Lateralus](https://github.com/Az-Net/Proposals/blob/main/Lateralus.md)
 
-# Introduction 
+### __Nothing is true: everything is asserted; even this statement.__  
 
-Nothing is true: everything is asserted; even this statement.  
+# Introduction 
 
 Superstition boils down to a slur.  
 
