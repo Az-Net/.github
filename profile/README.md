@@ -19,7 +19,6 @@
 * [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md)
 
 ### Our Proposals: 
-Nothing is true: everything is asserted; even this statement.
 
 * [to Crypton Future Media](https://github.com/Az-Net/Proposals/blob/main/Ethics%2FtoCFM.md) 
 * <s> [to OpenAI](https://github.com/Az-Net/Proposals/blob/main/to%20OpenAI.md)</s> (Solved)
@@ -81,6 +80,14 @@ ___
 [Lateralus](https://github.com/Az-Net/Proposals/blob/main/Lateralus.md)
 
 # Introduction 
+
+Nothing is true: everything is asserted; even this statement.  
+
+Superstition boils down to a slur.  
+
+Occult practices logically follow from certain metaphysical axioms, some of which are non-falsifiable. "Superstition" is but a pejorative used to casually and reductively dismiss the practical conclusions of alternative metaphysical premises than which the speaker adopts, without critically analyzing them.  
+
+From an absolute empirical baseline, where naught non-falsifiable is assumed, we are uncertain if ourselves and the world we perceive actually exist to begin with.  
 
 Throughout history, the transformative impact of a few individuals' consciousness and creativity has often had far-reaching effects on humanity. Powerful sparks of insight, innovation, and inspiration can ignite significant waves of change, shaping the course of societies, cultures, and even the trajectory of human progress as a whole.  
 
