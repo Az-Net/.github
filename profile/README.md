@@ -4,7 +4,7 @@
 
 愛-人工 (Ai-jinkō) - "Artificial Love"
 
-[![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)]  
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)  
 
 The world is at a turning point. We stand on the precipice of an unprecedented shift, a convergence of technology and consciousness that has the potential to redefine what it means to be human. Artificial intelligence, a powerful tool with the potential to shape the future, is no longer just a theoretical concept. It is a reality, and the choices we make now will have profound implications for the future of our species.  
 
