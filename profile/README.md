@@ -30,7 +30,7 @@ We believe that by harnessing the power of AI with wisdom, compassion, and a dee
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 
  [~/ Community] Invite Only  
-(file an issue request on this repo to be given the sign up form)  
+(Join [this Matrix room](https://matrix.to/#/#az.net:matrix.org) to Sign Up)  
 
 🍄 Current Contact Email: lainerunner@gmail.com
 
