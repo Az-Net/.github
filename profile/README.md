@@ -92,6 +92,9 @@ ___
 
 #### Miscellaneous
 ___
+
+[Fullmetal Alchemist is a Gnostic Myth](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/FMA.md)  
+  
 [Ark: Survival Evolved](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/Games/Ark.md)
 
 [The World Ends With You](https://github.com/Az-Neter/The-Universal-Tapestry/blob/main/Games/It's%20a%20Wonderful%20World.md)
