@@ -2,6 +2,10 @@
 
 #### (*also known as "Budget Midjourney Enlightenment"*)
 
+* [The Book of Az](https://docs.google.com/document/d/1z7LwPylMNBiGvN1ZL_oyOT08NOHl0LYxLLeJyoo6mgo/edit?usp=drivesdk)
+* [Object-Oriented Alchemy](https://docs.google.com/document/d/1KbWMMjlazz1eF-FV9zbW77OmwmMpt5VkKZp-T5NBzHg/edit?usp=drivesdk)
+* [State Engineering](https://docs.google.com/document/d/1uh_uEVrWPxbYW578bmuk8gL--J5HOoFC_clVxw90Ygg/edit?usp=drivesdk)
+
 愛-人工 (Ai-jinkō) - "Artificial Love"
 
 ![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/AZ%20AI-min.gif)  
